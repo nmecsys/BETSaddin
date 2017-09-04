@@ -7,12 +7,9 @@
 #' @import rstudioapi
 #' @import shiny
 #' @importFrom utils write.csv write.csv2
-#' 
-#' 
+#' @importFrom BETS BETS.save.spss BETS.save.stata
+#' @importFrom BETS BETS.save.sas
 #' @export
-
-
-
 
 
 BETS.addin_pt  = function(){

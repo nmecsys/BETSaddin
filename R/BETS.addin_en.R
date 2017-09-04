@@ -7,7 +7,8 @@
 #' @import rstudioapi
 #' @import shiny
 #' @importFrom utils write.csv write.csv2
-#' 
+#' @importFrom BETS BETS.save.stata BETS.save.spss
+#' @importFrom BETS BETS.save.sas
 #' @export
 
 
