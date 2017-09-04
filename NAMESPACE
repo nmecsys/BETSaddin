@@ -2,11 +2,13 @@
 
 export(BETS.addin_en)
 export(BETS.addin_pt)
+import(BETS)
 import(miniUI)
 import(rstudioapi)
 import(shiny)
 importFrom(BETS,BETS.save.sas)
 importFrom(BETS,BETS.save.spss)
 importFrom(BETS,BETS.save.stata)
+importFrom(BETS,BETS.search)
 importFrom(utils,write.csv)
 importFrom(utils,write.csv2)

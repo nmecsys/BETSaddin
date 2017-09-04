@@ -5,7 +5,7 @@ Version: 0.0.98
 Date: 2017-09-01
 Author: c(person("Jonatha", "Azevedo", email = "jonatha.azevedo@fgv.br", role = "aut"))
 Maintainer: Jonatha Azevedo <jonatha.costa@fgv.br>
-Depends: R (>= 3.4.1), BETS(>= 0.3.2)
+Depends: R (>= 3.4.1), BETS (>= 0.3.2)
 Imports: shiny (>= 0.13),miniUI (>= 0.1.1), rstudioapi (>= 0.4), DT
 Description: Provides an interface to the time-series search and exporting functions of the BETS package.
 License: MIT

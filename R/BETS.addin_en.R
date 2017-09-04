@@ -6,9 +6,11 @@
 #' @import miniUI
 #' @import rstudioapi
 #' @import shiny
+#' @import BETS
 #' @importFrom utils write.csv write.csv2
 #' @importFrom BETS BETS.save.stata BETS.save.spss
 #' @importFrom BETS BETS.save.sas
+#' @importFrom BETS BETS.search
 #' @export
 
 
